@@ -44,8 +44,8 @@ Execute the script, and it will perform automated interactions, from initiating 
 Modify the script to interact with different NBA players by adjusting the player's XPath or other locators as needed.
 
 ## Dependencies:
-[Selenium] (https://selenium-python.readthedocs.io/): Python library for browser automation.
-[ChromeDriver] (https://chromedriver.chromium.org/downloads): WebDriver for the Chrome browser (it has to be exactly the same edition with google chrome).
+Selenium (https://selenium-python.readthedocs.io/): Python library for browser automation.
+ChromeDriver (https://chromedriver.chromium.org/downloads): WebDriver for the Chrome browser (it has to be exactly the same edition with google chrome).
 
 ## Future Enhancements:
 Expand script capabilities to handle more dynamic web elements.
