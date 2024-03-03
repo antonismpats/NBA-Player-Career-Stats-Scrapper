@@ -54,5 +54,4 @@ Enhance exception handling for improved script robustness.
 
 ## Contribution:
 Contributions to this project are welcome! Feel free to open issues, suggest improvements, or submit pull requests.
-
 Feel free to customize the description further based on your project's unique aspects and goals. This detailed description provides potential users and contributors with a comprehensive overview of your NBA Player Career Stats Scraper project
